@@ -1,0 +1,21 @@
+PODS:
+  - Alamofire (4.5.1)
+  - lottie-ios (2.1.3)
+  - SimpleButton (3.0.1)
+  - SpreadButton (0.2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - lottie-ios
+  - SimpleButton (~> 3.0)
+  - SpreadButton (~> 0.2)
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  lottie-ios: 8c150606598931621e927377f1426d2d3e99282d
+  SimpleButton: 60e2454b052751b69bbaa8342d97ba91d8bfd7d2
+  SpreadButton: aa507384416d4547bac27700d901b04eaaa4e582
+
+PODFILE CHECKSUM: d53e09e16bc22ba7938c22445e3addbc194fcc20
+
+COCOAPODS: 1.3.1
